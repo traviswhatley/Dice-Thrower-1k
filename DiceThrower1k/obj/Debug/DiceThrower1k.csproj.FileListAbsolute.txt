@@ -1,1 +1,6 @@
 C:\Users\Technologist\Documents\GitHub\Dice-Thrower-1k\DiceThrower1k\bin\Debug\DiceThrower1k.exe.config
+C:\Users\Technologist\Documents\GitHub\Dice-Thrower-1k\DiceThrower1k\obj\Debug\DiceThrower1k.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Dice-Thrower-1k\DiceThrower1k\bin\Debug\DiceThrower1k.exe
+C:\Users\Technologist\Documents\GitHub\Dice-Thrower-1k\DiceThrower1k\bin\Debug\DiceThrower1k.pdb
+C:\Users\Technologist\Documents\GitHub\Dice-Thrower-1k\DiceThrower1k\obj\Debug\DiceThrower1k.exe
+C:\Users\Technologist\Documents\GitHub\Dice-Thrower-1k\DiceThrower1k\obj\Debug\DiceThrower1k.pdb
